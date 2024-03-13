@@ -14,7 +14,7 @@
   hwid = "SFcyMDE1MDA3MjUyOThJRA=="
 }
 ["kunicjlona"] = {
-  hwid = "SFczMjk5Mjg0MDE1MElEÃ¢ÂÂ
+  hwid = "SFczMjk5Mjg0MDE1MElEÃÂ¢ÃÂÃÂ
 }
 ["_osipers_"] = {
   hwid = "SFcxODM4MTQyMDg2NjRJRA=="
@@ -45,4 +45,7 @@
 }
 [""] = {
   hwid = ""
+}
+["englishtrr"] = {
+    "hwid" = "SFcxODM3Njg4OTMyODRJRA=="
 }
