@@ -14,7 +14,7 @@
   hwid = "SFcyMDE1MDA3MjUyOThJRA=="
 }
 ["kunicjlona"] = {
-  hwid = "SFczMjk5Mjg0MDE1MElEÃÂÃÂ¢ÃÂÃÂÃÂÃÂ
+  hwid = "SFczMjk5Mjg0MDE1MElEÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
 }
 ["_osipers_"] = {
   hwid = "SFcxODM4MTQyMDg2NjRJRA=="
@@ -30,4 +30,7 @@
 }
 ["d12k6"] = {
     "hwid" = "SFc5MDE1MjE0MjIxNDZJRA=="
+}
+["quittar"] = {
+    "hwid" = "SFc1Mjk1Mzc0NDIwMzJJRA=="
 }
