@@ -14,7 +14,7 @@
   hwid = "SFcyMDE1MDA3MjUyOThJRA=="
 }
 ["kunicjlona"] = {
-  hwid = "SFczMjk5Mjg0MDE1MElEÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+  hwid = "SFczMjk5Mjg0MDE1MElEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
 }
 ["_osipers_"] = {
   hwid = "SFcxODM4MTQyMDg2NjRJRA=="
@@ -33,4 +33,7 @@
 }
 ["quittar"] = {
     "hwid" = "SFc1Mjk1Mzc0NDIwMzJJRA=="
+}
+["kitty"] = {
+    "hwid" = "SFcxMDYzNDE1ODgxODJJRA=="
 }
