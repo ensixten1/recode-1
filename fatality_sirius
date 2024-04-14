@@ -1,4 +1,3 @@
-
 ["ctospto"] = {
     "hwid" = "SFc2NDIzMDE1OTA4SUQ=="
 }
@@ -37,4 +36,7 @@
 }
 ["wares1ng"] = {
     "hwid" = "SFcxNzA1NDQ1MjY5NzZJRA=="
+}
+["sgji_kev"] = {
+    "hwid" = "SFc1Mjk5MjczMzc3MThJRA=="
 }
